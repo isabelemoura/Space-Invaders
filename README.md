@@ -1,4 +1,4 @@
-# Space-Invaders
+# Space Invaders
 Game criado a partir da biblioteca do PyGame. 
 
 # Instale o pygame no seu CMD. 
