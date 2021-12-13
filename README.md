@@ -1,7 +1,7 @@
 # Space Invaders
 Game criado a partir da biblioteca do PyGame. 
 
-# Instale o pygame 
+# Instale o Pygame 
 $ pip install pygame
 
 # Instruções 
